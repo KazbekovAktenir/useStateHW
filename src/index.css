@@ -8,14 +8,3 @@ body {
   font-weight: 100;
   font-style: normal;
 }
-
-.reset-button {
-  padding: 10px 20px;
-  font-size: 1.2rem;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.reset-button:hover {
-  background-color: #fdd;
-}
